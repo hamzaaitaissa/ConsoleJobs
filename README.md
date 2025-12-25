@@ -17,6 +17,11 @@ Then I added AI into the mix. Now you can search jobs, get intelligent recommend
 ⚡ **Real Job Data** - Integrated with RapidAPI's JSearch to fetch real job listings worldwide, not just cached data.
 
 ---
+## Demo Video
+
+https://github.com/user-attachments/assets/e327f155-1174-4edf-a5e5-f4ec44d23809
+
+---
 
 ## Quick Start
 

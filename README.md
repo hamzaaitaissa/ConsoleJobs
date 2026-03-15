@@ -4,7 +4,7 @@
 
 I got tired of switching between job platforms, copy-pasting filters, and context-switching between tabs. As someone who loves working in the console, I thought: *Why not build a job search tool that lives right in the terminal?* 
 
-Then I added AI into the mix. Now you can search jobs, get intelligent recommendations, and let Llama analyze opportunities—all without leaving your console.
+Then I added AI into the mix. Now you can search jobs, get intelligent recommendations, and let Ollama analyze opportunities—all without leaving your console.
 
 ---
 
